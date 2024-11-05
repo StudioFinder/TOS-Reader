@@ -1,3 +1,6 @@
+
+#this is my first project, extremely proud of it.
+
 #import nltk as n
 from nltk.tokenize import sent_tokenize
 from transformers import pipeline
